@@ -9,12 +9,12 @@ The objective was to design a structured Excel-based Profit & Loss report that p
 ## ⚙️ Action
 Developed a dynamic Excel report covering:
 
-1️⃣ P & L Metrics – Revenue, Cost, Gross Profit & Profitability indicators
-2️⃣ Quarterly Metrics Analysis– Performance comparison across business quarters
-3️⃣ Sales by Month & Year – Trend analysis to identify seasonal patterns
-4️⃣ Market Report – Market-wise revenue and contribution analysis
-5️⃣GM% (Gross Margin Percentage) – Profit efficiency evaluation
-6️⃣ Conclusion Dashboard – Key insights and business recommendations
+### 1️⃣ P & L Metrics – Revenue, Cost, Gross Profit & Profitability indicators
+### 2️⃣ Quarterly Metrics Analysis– Performance comparison across business quarters
+#### 3️⃣ Sales by Month & Year – Trend analysis to identify seasonal patterns
+### 4️⃣ Market Report – Market-wise revenue and contribution analysis
+### 5️⃣GM% (Gross Margin Percentage) – Profit efficiency evaluation
+### 6️⃣ Conclusion Dashboard – Key insights and business recommendations
 
 Used Pivot Tables, calculated fields, and interactive Excel features to transform raw financial data into meaningful analytical insights.
 
