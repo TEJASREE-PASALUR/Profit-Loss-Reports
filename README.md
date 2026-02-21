@@ -1,12 +1,12 @@
 # Profit-Loss-Reports
 
-# ⭐ Statement
+## ⭐ Statement
 Organizations often struggle to interpret financial performance due to scattered sales and cost data across multiple time periods and markets. This makes it challenging for management to monitor profitability and identify performance gaps.
 
-# 🎯 Task
+## 🎯 Task
 The objective was to design a structured Excel-based Profit & Loss report that provides clear visibility into revenue, profitability metrics, and market performance across different time periods.
 
-# ⚙️ Action
+## ⚙️ Action
 Developed a dynamic Excel report covering:
 
 1️⃣ P & L Metrics – Revenue, Cost, Gross Profit & Profitability indicators
@@ -18,8 +18,8 @@ Developed a dynamic Excel report covering:
 
 Used Pivot Tables, calculated fields, and interactive Excel features to transform raw financial data into meaningful analytical insights.
 
-# 📈 Result
+## 📈 Result
 The report enabled clear tracking of financial health, profitability trends, and market performance, helping highlight improvement areas and supporting data-driven financial planning decisions.
 
-# 🛠 Tools Used
+## 🛠 Tools Used
  Microsoft Excel | Financial Analysis | Pivot Tables | Data Cleaning | Business Reporting
